@@ -23,7 +23,7 @@ export default function Header() {
             <img 
               src="/harsh-logo.png" 
               alt="Harsh Fashion" 
-              className="h-20 w-auto"
+              className="h-28 w-auto"
             />
           </Link>
 
