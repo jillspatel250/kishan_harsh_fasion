@@ -17,15 +17,15 @@ export default function Products() {
   const products = [
     {
       id: 1,
-      name: 'Natural Wood Laptop Table',
+      name: 'HF HARSH FASHION Natural Wood Laptop Table',
       category: 'Laptop Tables',
       price: '₹3,499',
       image: '/laptop-table-1.png',
-      description: 'Premium natural wood laptop desk with white metal frame. Features storage drawer and ergonomic design perfect for bedroom workspaces.',
+      description: ' Premium natural wood laptop desk with white metal frame. Features storage drawer and ergonomic design perfect for bedroom workspaces.',
     },
     {
       id: 2,
-      name: 'Modern Black Laptop Table',
+      name: 'HF HARSH FASHION Modern Black Laptop Table',
       category: 'Laptop Tables',
       price: '₹2,999',
       image: '/laptop-table-2.png',
@@ -33,7 +33,7 @@ export default function Products() {
     },
     {
       id: 3,
-      name: 'Premium Quality Laptop Desk',
+      name: 'HF HARSH FASHION Premium Quality Laptop Desk',
       category: 'Laptop Tables',
       price: '₹3,999',
       image: '/laptop-table-3.png',
@@ -41,7 +41,7 @@ export default function Products() {
     },
     {
       id: 4,
-      name: 'Artistic Pink Laptop Table',
+      name: 'HF HARSH FASHION table Artistic Pink Laptop Table',
       category: 'Laptop Tables',
       price: '₹3,299',
       image: '/laptop-table-4.png',
